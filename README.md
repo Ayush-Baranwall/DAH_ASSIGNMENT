@@ -1,7 +1,5 @@
 # DAH_ASSIGNMENT
-DAH Programming Assignment
 
-# DAH Assignment - 1
 
 Ayush Baranwal
 ENG20DS0011
