@@ -1,5 +1,4 @@
-# DAH_ASSIGNMENT
-
+# Implementing MapReduce in Python
 
 <br>Ayush Baranwal</br>
 <br>ENG20DS0011</br>
